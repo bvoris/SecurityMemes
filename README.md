@@ -6,3 +6,4 @@ Collection of Security Memes
 <IMG SRC="https://github.com/bvoris/SecurityMemes/blob/main/69574987_466877530821168_2716010942872682496_o.jpg?raw=true"><BR/><BR/>
 <IMG SRC="https://github.com/bvoris/SecurityMemes/blob/main/jira.jpg"><BR/><BR/>
 <IMG SRC="https://github.com/bvoris/SecurityMemes/blob/main/entrylevelsecurity.jpg"><BR/><BR/>
+<IMG SRC="https://github.com/bvoris/SecurityMemes/blob/main/FINavlwWUAAW2O9.jpg"><BR/><BR/>
